@@ -1,12 +1,37 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     text-align: center;
     background-color: #00DBDE;
     background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
-
-
-
 }
 
 #id:hover {
     background-color: white;
+}
+
+.link {
+    padding-left: 40px;
+    padding-right: 30px;
+
+    font-family: fantasy;
+
+    font-size: 20px;
+    display: inline;
+}
+
+
+.link:hover {
+    background-color: white;
+}
+
+
+.menu {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin-top: 0px;
 }
