@@ -35,3 +35,19 @@ body {
     width: 100%;
     margin-top: 0px;
 }
+
+#discord:hover {
+    background-color: white;
+}
+
+#twitter:hover {
+    background-color: white;
+}
+
+#profile {
+    height: 500px;
+    width: 525px;
+
+    border-radius: 50%;
+
+}
