@@ -17,6 +17,11 @@ body {
     background-color: white;
 }
 
+
+.menu {
+    text-align: center;
+}
+
 .link {
     padding-left: 40px;
     padding-right: 30px;
